@@ -1,7 +1,7 @@
 {
 	{
 		//naciones
-		"nombre" : " Reino visigod " ,
+		"nombre" : " Reino visigodo " ,
 		"leaderName" : " Alarico I " ,
 		"adjetivo" : [ " visigodo " ],
 		"startBias" : [ " Evitar [Tundra] " ],
