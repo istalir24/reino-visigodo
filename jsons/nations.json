@@ -1,0 +1,34 @@
+{
+	{
+		//naciones
+		"nombre" : " Babilonia " ,
+		"leaderName" : " Nabucodonosor II " ,
+		"adjetivo" : [ " babilónico " ],
+		"startBias" : [ " Evitar [Tundra] " ],
+		"preferredVictoryType" : " Scientific " ,
+
+		"startIntroPart1" : " " ,
+		"startIntroPart2" : " " ,
+
+		"declaringWar" : "¡ El demonio quiere la sangre de los soldados! " ,
+		"attacked" : " Oh, bueno, supongo que sabes lo que estás haciendo " .
+		"derrotado" : " Se acabó. Quizás ahora tendré paz, por fin " .
+		"Introducción" : " ¿Eres real o un fantasma? " ,
+
+		"neutralHola" : " Saludos " ,
+		"hateHello" : " ¡¿Qué quieres TU?! " ,
+
+		"tradeRequest" : " Parece que tiene una razón para existir: hacer este trato conmigo " .
+
+		"Color exterior" : [ 27 , 53 , 63 ],
+		"Color Interior" : [ 213 , 249 , 255 ],
+		"religión favorecida" : " Islam " ,
+		"uniqueName" : " Ingenio " ,
+		"uniques" : [ " Reciba [Gran científico] gratis cuando descubra [Escritura] " , " [Gran científico] se gana [50]% más rápido " ],
+		"ciudades" : [ " Babilonia " , " Akkad " , " Dur-Kurigalzu " , " Nippur " , " Borsippa " , " Sippar " , " Opis " , " Mari " , " Shushan " , " Eshnunna " ,
+			" Ellasar " , " Erec " , " Kuta " , " Sirpurla " , " Neribtum " , " Ashur " , " Ninveh " , " Nimrud " , " Arbela " , " Nuzi " ,
+			" Arrapkha " , " Tutub " , " Shaduppum " , " Rapiqum " , " Mashkan Shapir " , " Tuttul " , " Ramad " , " Ana " , " Haradum " , " Agrab " ,
+			" Uqair " , " Gubba " , " Hafriyat " , " Nagar " , " Shubat Enlil " , " Urhai " , " Urkesh " , " Awan " , " Riblah " , " Tayma " ],
+        "Nombres de espías" : [ " Rim-Sin II " , " Smerdis " , " Ilum-ma-ili " , " Peshgaldaramesh " , " Ur-zigurumaš " , " Semiramis " , " Em " , " Ishtar " , " Bilit Taauth " , " Aruru " ]
+  },
+]
