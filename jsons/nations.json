@@ -23,8 +23,8 @@
 		"Color exterior" : [ 27 , 53 , 63 ],
 		"Color Interior" : [ 213 , 249 , 255 ],
 		"religión favorecida" : " christianism " ,
-		"uniqueName" : " Mount " , "[+10]% strenght <for [rider] units>"
-		"uniques" : [ " Starts with [Domestication]
+		"uniqueName" : " Mount " ,
+		"uniques" : [ " Starts with [Domestication]" , "[+10]% strenght <for [rider] units>"
 		"ciudades" : [ " Tolouse " , " Barcelona " , " Flaviobriga " , " Zaragoza " , " Pamplona " , " valencia " , " Cordoba " , " Merida " , " Faro " , " Lisbon " ,
 			" Asturica " , " Braga " , " Salamanca " , " Santiago " , " Leon " , " Burgos " , " Toledo " , " Quinca " , " Bordeaux " , " Marsellies " ,
 			" Conimbriga " , " Poitiers " , " Bourges " 
