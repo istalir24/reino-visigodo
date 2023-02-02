@@ -1,11 +1,11 @@
 {
 	{
 		//naciones
-		"nombre" : " Babilonia " ,
-		"leaderName" : " Nabucodonosor II " ,
-		"adjetivo" : [ " babilónico " ],
+		"nombre" : " Reino visigod " ,
+		"leaderName" : " Alarico I " ,
+		"adjetivo" : [ " visigodo " ],
 		"startBias" : [ " Evitar [Tundra] " ],
-		"preferredVictoryType" : " Scientific " ,
+		"preferredVictoryType" : " Domination " ,
 
 		"startIntroPart1" : " " ,
 		"startIntroPart2" : " " ,
@@ -22,13 +22,12 @@
 
 		"Color exterior" : [ 27 , 53 , 63 ],
 		"Color Interior" : [ 213 , 249 , 255 ],
-		"religión favorecida" : " Islam " ,
-		"uniqueName" : " Ingenio " ,
-		"uniques" : [ " Reciba [Gran científico] gratis cuando descubra [Escritura] " , " [Gran científico] se gana [50]% más rápido " ],
-		"ciudades" : [ " Babilonia " , " Akkad " , " Dur-Kurigalzu " , " Nippur " , " Borsippa " , " Sippar " , " Opis " , " Mari " , " Shushan " , " Eshnunna " ,
-			" Ellasar " , " Erec " , " Kuta " , " Sirpurla " , " Neribtum " , " Ashur " , " Ninveh " , " Nimrud " , " Arbela " , " Nuzi " ,
-			" Arrapkha " , " Tutub " , " Shaduppum " , " Rapiqum " , " Mashkan Shapir " , " Tuttul " , " Ramad " , " Ana " , " Haradum " , " Agrab " ,
-			" Uqair " , " Gubba " , " Hafriyat " , " Nagar " , " Shubat Enlil " , " Urhai " , " Urkesh " , " Awan " , " Riblah " , " Tayma " ],
+		"religión favorecida" : " christianism " ,
+		"uniqueName" : " Mount " , "[+10]% strenght <for [rider] units>"
+		"uniques" : [ " Starts with [Domestication]
+		"ciudades" : [ " Tolouse " , " Barcelona " , " Flaviobriga " , " Zaragoza " , " Pamplona " , " valencia " , " Cordoba " , " Merida " , " Faro " , " Lisbon " ,
+			" Asturica " , " Braga " , " Salamanca " , " Santiago " , " Leon " , " Burgos " , " Toledo " , " Quinca " , " Bordeaux " , " Marsellies " ,
+			" Conimbriga " , " Poitiers " , " Bourges " 
         "Nombres de espías" : [ " Rim-Sin II " , " Smerdis " , " Ilum-ma-ili " , " Peshgaldaramesh " , " Ur-zigurumaš " , " Semiramis " , " Em " , " Ishtar " , " Bilit Taauth " , " Aruru " ]
   },
 ]
